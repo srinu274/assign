@@ -1,6 +1,6 @@
 # Code for first and second questions
 
-This repo contains notebook for first and second questions
+This repo contains notebook for first and python files for second question.
 
 First question output is in the first_question.ipynb file.
 
